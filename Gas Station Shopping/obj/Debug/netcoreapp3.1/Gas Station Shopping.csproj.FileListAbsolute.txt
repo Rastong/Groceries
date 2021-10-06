@@ -1,0 +1,14 @@
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\bin\Debug\netcoreapp3.1\Gas Station Shopping.exe
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\bin\Debug\netcoreapp3.1\Gas Station Shopping.deps.json
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\bin\Debug\netcoreapp3.1\Gas Station Shopping.runtimeconfig.json
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\bin\Debug\netcoreapp3.1\Gas Station Shopping.runtimeconfig.dev.json
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\bin\Debug\netcoreapp3.1\Gas Station Shopping.dll
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\bin\Debug\netcoreapp3.1\Gas Station Shopping.pdb
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.csproj.AssemblyReference.cache
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.AssemblyInfoInputs.cache
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.AssemblyInfo.cs
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.dll
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.pdb
+C:\Users\Raston\source\repos\Gas Station Shopping\Gas Station Shopping\obj\Debug\netcoreapp3.1\Gas Station Shopping.genruntimeconfig.cache

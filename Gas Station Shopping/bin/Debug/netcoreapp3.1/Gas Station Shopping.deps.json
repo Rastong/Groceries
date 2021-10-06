@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gas Station Shopping/1.0.0": {
+        "runtime": {
+          "Gas Station Shopping.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gas Station Shopping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
